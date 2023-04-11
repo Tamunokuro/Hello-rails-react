@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [� Table of Contents](#-table-of-contents)
-- [📖 Hello Rails React ](#-Hello-Rails React-)
+- [📖 Hello Rails React ](#-about-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -140,9 +140,9 @@ Run this project using
 ```
 
 
-### Install
+<!-- ### Install
 
-Install this project with:
+Install this project with: -->
 
 <!--
 Example command:
@@ -153,9 +153,9 @@ Example command:
 ```
 --->
 
-### Usage
+<!-- ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: -->
 
 <!--
 Example command:
@@ -189,7 +189,7 @@ Example:
 ```
  -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
