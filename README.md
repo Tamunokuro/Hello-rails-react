@@ -23,14 +23,14 @@ OPTIONAL SECTIONS:
 - FAQ
 
 After you're finished please remove all the comments and instructions!
--->
+ -->
 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [� Table of Contents](#-table-of-contents)
-- [📖 \[your\_project\_name\] ](#-your_project_name-)
+- [📖 Hello Rails React ] ](#-Hello Rails React-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -72,7 +72,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://rubyonrails.org</a></li>
+    <li><a href="https://rubyonrails.org"</a></li>
   </ul>
 </details>
 
@@ -95,7 +95,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo (not available)<a name="live-demo"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,26 +109,18 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
 ```sh
  gem install rails
 ```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
 ```
---->
 
 ### Install
 
@@ -154,10 +146,10 @@ Example command:
   rails server
 ```
 --->
-
+<!-- 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command: -->
 
 <!--
 Example command:
@@ -166,7 +158,7 @@ Example command:
   bin/rails test test/models/article_test.rb
 ```
 --->
-
+<!-- 
 ### Deployment
 
 You can deploy this project using:
@@ -179,7 +171,7 @@ Example:
 ```
  -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- AUTHORS -->
 
@@ -189,15 +181,8 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Tamunokuro](https://github.com/Tamunokuro)
+- LinkedIn: [Joshua Blue-Jack](https://linkedin.com/in/joshua-blue-jack)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,9 +192,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Styling for messages**
+- [ ] **Functionality to create messages**
+- [ ] **Aunthentication for users** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,9 +212,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project please leave a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,15 +220,13 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank microverse for this project inspiration
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+<!-- ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
@@ -258,12 +239,12 @@ I would like to thank...
   - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
