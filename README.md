@@ -109,18 +109,36 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-```sh
- gem install rails
-```
+- Ruby
+- Rails 
+- Postgres DB
 
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:Tamunokuro/Hello-rails-react.git
 ```
+
+Install dependencies
+
+```sh
+  bundle install
+```
+
+Create database
+
+```sh
+  rails db:create
+```
+
+Run this project using 
+
+```sh
+  rails s
+```
+
 
 ### Install
 
