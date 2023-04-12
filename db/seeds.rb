@@ -5,3 +5,10 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+Greeting.create!(message: 'Hello Microverse')
+Greeting.create!(message: 'Rails React here')
+Greeting.create!(message: 'Final Capstone loading...')
+Greeting.create!(message: 'Hello Microverse')
+Greeting.create!(message: 'Rails React here')
+

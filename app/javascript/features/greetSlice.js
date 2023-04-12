@@ -2,7 +2,7 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
 const initialState = {
     greeting: '',
-    loading: true,
+    pending: true,
     error: null
 }
 
@@ -16,16 +16,15 @@ export const fetchGreeting = createAsyncThunk(
 )
 
 const greetingSlice = createSlice({
-    name: 'greeting',
     initialState,
-    reducers: {},
+    name: 'greeting',
     extraReducers: (builder) => builder
         .addCase(fetchGreeting.pending, (state) => {
-            state.loading = true;
+            state.pending= true;
         }
         )
         .addCase(fetchGreeting.fulfilled, (state, action) => {
-            state.loading = false;
+            state.pending = false;
             state.greeting = action.payload;
         }
         )

@@ -6,7 +6,7 @@ import { fetchGreeting } from './features/greetSlice';
 
 const App = () => {
     const dispatch = useDispatch();
-    dispatch(fetchGreeting);
+    dispatch(fetchGreeting());
 
     return (
         <BrowserRouter>
