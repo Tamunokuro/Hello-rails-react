@@ -49,7 +49,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello Rail React <a name="about-project"></a>
 
-**Hello Rails React** is a setup sample for a Ruby on Rails and React application using webpack
+**Hello Rails React** is a setup sample for a Ruby on Rails and React application using webpack bundler
 
 ## 🛠 Built With <a name="built-with"></a>
 

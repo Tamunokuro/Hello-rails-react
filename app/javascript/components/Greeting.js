@@ -7,7 +7,7 @@ const Greeting = () => {
     return (
         greeting.loading ? <h1>Loading...</h1> :
         <div>
-            <h1>{greeting.message}</h1>
+            <h1>{greeting.message}!!</h1>
         </div>
     )
 

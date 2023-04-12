@@ -8,7 +8,6 @@ const App = () => {
     const dispatch = useDispatch();
     dispatch(fetchGreeting);
 
-
     return (
         <BrowserRouter>
             <Routes>
